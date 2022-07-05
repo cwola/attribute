@@ -1,0 +1,25 @@
+{
+    "name": "cwola/attribute",
+    "description": "PHP Attribute(Cwola library).",
+    "type": "library",
+    "version": "1.0.0",
+    "keywords": [
+      "php",
+      "cwola",
+      "attribute"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "r-jimbo"
+        }
+    ],
+    "require": {
+      "php": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cwola\\Attribute\\": "src/"
+        }
+    }
+}
