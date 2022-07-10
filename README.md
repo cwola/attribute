@@ -9,6 +9,11 @@ Add "ReadableAttribute" and "WritableAttribute" for PHP.
 ## Requirement
 - PHP8.0+
 
+## Installation
+```
+composer require cwola/attribute
+```
+
 ## Usage
 - Readable
 ```
