@@ -2,11 +2,12 @@
     "name": "cwola/attribute",
     "description": "PHP Attribute(Cwola library).",
     "type": "library",
-    "version": "1.0.0",
     "keywords": [
       "php",
       "cwola",
-      "attribute"
+      "attribute",
+      "readable",
+      "writable"
     ],
     "license": "MIT",
     "authors": [
@@ -14,8 +15,9 @@
             "name": "r-jimbo"
         }
     ],
+    "homepage": "https://github.com/cwola/attribute",
     "require": {
-      "php": "^8.0"
+      "php": ">=8.0.0"
     },
     "autoload": {
         "psr-4": {
